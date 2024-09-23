@@ -1,0 +1,42 @@
+inherited FrmMain_LgXhdpiPh: TFrmMain_LgXhdpiPh
+  ClientHeight = 695
+  ClientWidth = 450
+  DesignerMasterStyle = 3
+  inherited RecPlayer1: TRectangle
+    Size.Height = 580.000000000000000000
+    inherited Rectangle2: TRectangle
+      Position.Y = 550.000000000000000000
+      inherited LbResult1: TLabel
+        TextSettings.Font.StyleExt = {00070000000000000004000000}
+      end
+    end
+    inherited RecPlaying1: TRoundRect
+      Position.Y = 525.000000000000000000
+    end
+  end
+  inherited RecPlayer2: TRectangle
+    Position.X = 370.000000000000000000
+    Size.Height = 580.000000000000000000
+    inherited Rectangle3: TRectangle
+      Position.Y = 550.000000000000000000
+      inherited LbResult2: TLabel
+        TextSettings.Font.StyleExt = {00070000000000000004000000}
+      end
+    end
+    inherited RecPlaying2: TRoundRect
+      Position.Y = 525.000000000000000000
+    end
+  end
+  inherited GridPanelLayout1: TGridPanelLayout
+    TabOrder = 9
+  end
+  inherited RecTop: TRectangle
+    Size.Width = 450.000000000000000000
+    inherited LbConnect: TLabel
+      Position.X = 370.000000000000000000
+    end
+  end
+  inherited LbWinner: TLabel
+    Size.Width = 450.000000000000000000
+  end
+end

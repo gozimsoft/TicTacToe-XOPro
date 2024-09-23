@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899-12-30 00:00:00.000.316,D:\Delphi\programs\AppTikTakTow\Unit1.pas=D:\Delphi\programs\AppTikTakTow\InputeCodeUnit.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.316,D:\Delphi\programs\AppTikTakTow\Unit1.fmx=D:\Delphi\programs\AppTikTakTow\InputeCodeUnit.fmx</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.596,D:\Delphi\programs\AppTikTakTow\XOPRO.dproj=C:\Users\Amar\Documents\Embarcadero\Studio\Projects\XOPRO.dproj</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.067,C:\Users\Amar\Documents\Embarcadero\Studio\Projects\XOPRO.dproj=C:\Users\Amar\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.846,=C:\Users\Amar\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.732,D:\Delphi\programs\AppTikTakTow\Posix.Ifaddrs.pas=D:\Delphi\programs\AppTikTakTow\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.699,D:\Delphi\programs\AppTikTakTow\Posix.Ifaddrs.pas=</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.307,=D:\Delphi\programs\AppTikTakTow\MainUnit.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.847,=D:\Delphi\programs\AppTikTakTow\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.890,=D:\Delphi\programs\AppTikTakTow\Unit1.pas</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile Android64="" Android=""/>
+	</ActiveMobileDevice>
+</BorlandProject>
